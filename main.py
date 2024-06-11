@@ -6,6 +6,7 @@ from tkinter.ttk import *
 Desktop App >> The Most Dangerous Writing App
 
     - Monitor the key presses:
+        - Write your thoughts at your own risk
         - If the user stops writing something for 10 sec delete everything they have written up to that point
 
 """
